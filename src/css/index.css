@@ -1,0 +1,2 @@
+/* Import tailwind trước, css tự viết import sau */
+@import url('./tailwind.css');
