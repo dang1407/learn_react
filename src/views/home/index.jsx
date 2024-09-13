@@ -32,6 +32,7 @@ function App() {
       </p>
 
       <NavLink to="/employee">Go to employee</NavLink>
+      {/* <a href="/employee" target="_parent">Go to employee</a> */}
       <ToastComponent
         showToast={showToast}
         onClose={() => setShowToast(false)}
